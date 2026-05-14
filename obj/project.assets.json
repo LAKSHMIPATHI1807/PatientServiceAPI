@@ -3872,11 +3872,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sampu\\OneDrive\\Desktop\\.Net_training\\Mini-III\\HealthcareManagementSystem\\PatientServiceAPI\\PatientServiceAPI.csproj",
+      "projectUniqueName": "C:\\Users\\sampu\\OneDrive\\Desktop\\PatientServiceAPI\\PatientServiceAPI.csproj",
       "projectName": "PatientServiceAPI",
-      "projectPath": "C:\\Users\\sampu\\OneDrive\\Desktop\\.Net_training\\Mini-III\\HealthcareManagementSystem\\PatientServiceAPI\\PatientServiceAPI.csproj",
+      "projectPath": "C:\\Users\\sampu\\OneDrive\\Desktop\\PatientServiceAPI\\PatientServiceAPI.csproj",
       "packagesPath": "C:\\Users\\sampu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sampu\\OneDrive\\Desktop\\.Net_training\\Mini-III\\HealthcareManagementSystem\\PatientServiceAPI\\obj\\",
+      "outputPath": "C:\\Users\\sampu\\OneDrive\\Desktop\\PatientServiceAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
